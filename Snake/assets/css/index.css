@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+}
+
+#game {
+  font-size: 40px;
+  font-weight: bold;
+  color: green;
+}
+
